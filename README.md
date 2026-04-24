@@ -1,6 +1,6 @@
 # TimeTravel Agency — Webapp Interactive
 
-> Webapp immersive pour une agence de voyage temporel fictive de luxe, développée dans le cadre du cours M1/M2 Digital & IA — EPSI 2026.
+> Webapp immersive pour une agence de voyage temporel fictive de luxe, développée dans le cadre du cours M1/M2 Digital & IA — Ynov 2026.
 
 **Live** : [https://cours-ia.mabitoski.fr](https://cours-ia.mabitoski.fr)
 
@@ -311,16 +311,13 @@ Internet
 
 | Nom | Prénom |
 |---|---|
-| *(À compléter)* | *(À compléter)* |
-| *(À compléter)* | *(À compléter)* |
-| *(À compléter)* | *(À compléter)* |
-| *(À compléter)* | *(À compléter)* |
+| Constant | Mateo |
 
 ---
 
 ## Licence
 
-Projet pédagogique — M1/M2 Digital & IA — EPSI 2026
+Projet pédagogique — M1/M2 Digital & IA — Ynov 2026
 
 Visuels : [Unsplash](https://unsplash.com) (licence libre)  
 Polices : [Google Fonts](https://fonts.google.com) — Cinzel, Inter
